@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "DataGenerator\DataGenerator.csproj", "{320CB5DC-4665-492A-8E1D-BFDB934A22BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryBenchmark", "QueryBenchmark\QueryBenchmark.csproj", "{1C55ACAF-7589-47F0-ABB3-2EB5B1773830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{320CB5DC-4665-492A-8E1D-BFDB934A22BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320CB5DC-4665-492A-8E1D-BFDB934A22BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320CB5DC-4665-492A-8E1D-BFDB934A22BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320CB5DC-4665-492A-8E1D-BFDB934A22BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C55ACAF-7589-47F0-ABB3-2EB5B1773830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C55ACAF-7589-47F0-ABB3-2EB5B1773830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C55ACAF-7589-47F0-ABB3-2EB5B1773830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C55ACAF-7589-47F0-ABB3-2EB5B1773830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

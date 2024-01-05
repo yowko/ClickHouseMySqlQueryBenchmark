@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+QueryBenchmark/BenchmarkDotNet.Artifacts
+.idea
+ClickHouseMySqlQueryBenchmark.sln.DotSettings.user
